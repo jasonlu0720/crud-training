@@ -1,5 +1,0 @@
-application/cache/*
-application/logs/*
-composer.lock
-/vendor/
-application/vendor
